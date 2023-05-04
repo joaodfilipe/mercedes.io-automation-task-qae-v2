@@ -2,7 +2,7 @@ package Locators;
 
 import org.openqa.selenium.By;
 
-// CLASS WITH THE DEFINITIONS OF ALL LOCATORS
+// CLASS WITH THE DEFINITION OF ALL LOCATORS
 public class Locators {
 
     public static final By SHADOW_COOKIE_BANNER_SEL = By.cssSelector("cmm-cookie-banner");

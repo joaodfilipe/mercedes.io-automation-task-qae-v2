@@ -6,7 +6,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 
-// CLASS WITH THE DEFINITIONS OF ALL ACTIONS
+// CLASS WITH THE DEFINITION OF ALL ELEMENTS ACTIONS
 public class PageActions {
 
     public static void wait_clickOn_agree_all_cookie_banner(WebDriver driver){

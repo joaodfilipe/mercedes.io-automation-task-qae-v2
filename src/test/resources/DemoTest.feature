@@ -1,7 +1,7 @@
 @MercedesIODemo
 Feature: Automation Testing Task - MercedesIO
 
-  @Test-MercedesIODemo
+  @Test-MercedesIO-ValidatePricesDemo
   Scenario Outline: Validate A-Class models prices are between £15,000 and £60,000
     Given Open "<URL>" in "<browser>"
     Given Open "<menu>" menu, select "<button>" and click the model "<model>"

@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeOptions;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
+// CLASS WITH THE DEFINITION OF ALL BROWSER METHODS
 public class BrowserSetupSteps {
 
     private static WebDriver driver;

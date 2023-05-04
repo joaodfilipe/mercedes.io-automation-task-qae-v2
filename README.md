@@ -32,7 +32,7 @@ Frameworks:
     Java file with the definition of all methods responsible for the files management (Screenshot and txt file);
 
 -- 7. "Definitions" : 
-    Java file with the definition of all static constants;
+    Java file with the definition of all constants for comparison;
 
 -- 8. "PageActions" : 
     Java file that gathers the calls for all element methods and runs the necessary actions;

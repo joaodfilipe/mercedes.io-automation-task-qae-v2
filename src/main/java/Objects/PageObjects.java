@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.List;
 
-// CLASS WITH THE DEFINITIONS OF ALL PAGES ELEMENTS
+// CLASS WITH THE DEFINITION OF ALL PAGES ELEMENTS
 public class PageObjects {
 
     private static WebElement element = null;

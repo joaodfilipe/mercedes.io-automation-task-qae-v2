@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-// CLASS WITH THE DEFINITIONS OF ALL STATIC DEFINITIONS
+// CLASS WITH THE DEFINITION OF ALL FILES METHODS
 public class Files {
 
     public static void takeAndSaveScreenshot(WebDriver driver) throws Exception {

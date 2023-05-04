@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mercedes.io-automation-task-qae-v2" />
         <module name="DemoTests" />
       </profile>
     </annotationProcessing>
