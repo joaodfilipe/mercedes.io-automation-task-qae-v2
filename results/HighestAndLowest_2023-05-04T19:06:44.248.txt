@@ -1,0 +1,2 @@
+HIGHEST value in results: £42,510
+LOWEST value in results: £35,115
